@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://3.87.214.45:8081/repository/vprofile-relese/</url>
+	      <url>http://18.60.242.19:8081/repository/relese/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.87.214.45:8081/repository/vprofile-snap/</url>
+	      <url>http://18.60.242.19:8081/repository/snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
